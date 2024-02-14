@@ -1,0 +1,54 @@
+﻿
+pageTitle {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center; 
+}
+
+/* Estilo para o título principal */
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center; 
+}
+
+/* Estilos para o container do formulário */
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+
+
+/* Estilos para a caixa de seleção "Eu tenho 65 anos ou mais" */
+.checkbox-container {
+    display: flex;  
+    align-items: center;  
+    flex-direction: column;  
+}
+
+.checkbox-65mais {
+    margin-right: 5px;
+    color: #666666;
+}
+
+
+/* Classe de espaçamento entre os inputs */
+.input-spacing {
+    margin-bottom: 15px;
+}
